@@ -2,6 +2,7 @@
 
 🙋‍♀️ På den här länken kommer jag (Marcus) att publicera all kod vi använder under kurserna. 
 - [Uppgifter BFU](https://github.com/Campus-Molndal-JIN23/Uppgifter/BFU)
+
 <!---
 - [All livekod finns här](https://github.com/Campus-Molndal-JIN23/Livekod)
 - [Alla självtester finns här](https://github.com/Campus-Molndal-JIN23/Kodutmaning)
@@ -9,6 +10,11 @@
 - [En beta test för snyggare dokument](https://campusmolndaleducation.github.io/JIN23/)
 - [Exempel på en logger och config läsare](https://github.com/Campus-Molndal-JIN23/MySecretStash)
 -->
+
+## :smiley_cat: Repos :computer: ##
+- [Skapa ett repo i ditt konto](https://github.com/new)
+- [Skapa ett repo i här](https://github.com/organizations/Campus-Molndal-JIN23/repositories/new)
+- [Skapa ett repo med grundkod](https://github.com/Campus-Molndal-JIN23/java_template/generate)
 
 <!--
 ## Github classroom ##
@@ -34,7 +40,6 @@ Varje grupp har sin sandbox
 ## Regler ##
 🌈 Contribution guidelines - 
 Studenterna kommer att få egna repos att använda, och där kan ni göra vad ni vill. 
-Men radera inte era sandboxar ;)
 
 👩‍💻 Useful resources - Tanken är att allt arbete vi gör online kommer att finnas här!
 
